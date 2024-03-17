@@ -1,3 +1,26 @@
 {
-  "name": "Net Block Chainer"
+    "representative": {
+        "logo": {
+            "logo_256": "https://netblockchainer.github.io/netblockchainer-128x128.png"
+        },
+        "media": {
+            "steemit": "",
+            "twitter": "",
+            "youtube": "",
+            "facebook": "",
+            "github": "https://github.com/netblockchainer/",
+            "reddit": "",
+            "keybase": "",
+            "telegram": "",
+            "wechat": ""
+        }
+    },
+    "server": {
+        "location": {
+            "country": "KOR",
+            "city": "Songnam"
+        },
+        "server_type": "",
+        "api_endpoint": ""
+    }
 }
